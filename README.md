@@ -1,0 +1,2 @@
+# db2ToOracle
+db2导出的数据转换成可以到进Oracle的数据（在date型数据前加date或者TIMESTAMP）
